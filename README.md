@@ -15,13 +15,21 @@ Siapin alat dan bahannya.
 ### Cara Installnya
 Sebelum lu jalanin sc nya install dulu lah.
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
+> download termux
+> buka
+> termux-setup-storage
+> pkg install git
+> apt update && apt upgrade
 > git clone https://github.com/habibie1234/Hero
 > cd Hero
-> bash install.sh
+> pkg install wget
+> pkg install ffmpeg
+> pkg install nodejs
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i
+> npm i got
 > node index.js
-> Tinggal scan qr dah
 ```
 
 ## Features
